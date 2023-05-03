@@ -1,2 +1,7 @@
 # llc_0012
 Impacts of the COVID-19 pandemic on access to elective care in the UK: An analysis of linked Understanding Society and NHS electronic records data
+
+The response of the NHS to the COVID-19 pandemic meant that resources - services, time, beds, healthcare professionals - were reallocated to meet the extraordinary demand placed on health services by patients with coronavirus. One result of this was a sharp reduction in hospital patient care for other health conditions. In England, hospital episodes fell by a quarter from the year before the pandemic 2019-20 to the first year of it 2020-21.
+In this project we will use data collected from Understanding Society, a general survey of the population, carried out before, during and after the pandemic. With their consent, participants’ survey answers will be matched to their hospital care records. We will then investigate the size of the health care gap, whether it varies for different population groups, and the consequences it has had on their lives. We will explore who – younger or older age groups; families with high or low incomes, those living in affluent or poorer areas or people with different health conditions- were affected by the reduction in hospital care compared to their needs. We will then follow up to assess how they have been affected in terms of their health and wellbeing, paid and unpaid work and family relationships.
+
+Michaela Benzeval mjbenz@essex.ac.uk 
